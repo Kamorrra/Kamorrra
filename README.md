@@ -7,14 +7,16 @@
 <br/>
 
 <div align="center">
+
+🧰 I Build with: **`Excel`, `SQL`, `Python`, `Tableau`**
  
- 🔭 I’m currently **Looking for entry level roles**
+ 🔭 Career Status: **Looking for entry level Analyst roles**
  
- 🌱 I’m currently learning **AWS, Tailwind, React Native Expo**
+ 🧠 Currently learning: **`AWS Cloud`, `Snowflake`**
 
  <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
- ⚡ Here's a twister: **If the plural of Goose is Geese. Why is the plural of Moose not Meese?**
+ 💭 **"If the plural of Goose is Geese, why is the plural of Moose not Meese?"**
  
  </div>
  
