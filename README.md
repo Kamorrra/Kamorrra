@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=800&height=70&duration=3000&lines=I'm+Mike+Kamorra+👋🏾;+I+Make+Sense+of+Hard+Things;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=800&height=70&duration=4000&lines=I'm+Mike+Kamorra+👋🏾;+I+Make+Sense+of+Hard+Things;" />
 </h1>
 
 <h3 align="center">Data Analyst from Brookyln, New York 🗽 </h3>
