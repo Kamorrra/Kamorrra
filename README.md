@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What's+Up!+👋🏾;+I'm+Mike+Kamorra;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=800&height=70&duration=6000&lines=I'm+Mike+Kamorra+👋🏾;+I+Make+Sense+of+Hard+Things;" />
 </h1>
 
-<h3 align="center">A passionate Data Analyst from New York City 🗽 </h3>
+<h3 align="center">Data Analyst from Brookyln, New York 🗽 </h3>
 
 <br/>
 
