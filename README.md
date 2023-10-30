@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🧰 I Build with: **`Excel`, `SQL`, `Python`, `Tableau`**
+🧰 I Build with: **`Excel`, `SQL`, `Python`, `Jupyter Notebooks`, `Tableau`**
  
  🔭 Career Status: **Looking for entry level Analyst roles**
  
