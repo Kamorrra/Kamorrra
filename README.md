@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🧰 I Build with: **`Excel`, `SQL`, `Python`, `Jupyter Notebooks`, `Tableau`**
+🧰 I Build with: ** `Python`, `Jupyter Notebooks`, `SQL` **
  
- 🔭 Career Status: **Looking for entry level Analyst roles**
+ 🔭 Career Status: **Looking for entry level Cyber Analyst roles**
  
- 🧠 Currently learning: **`AWS Cloud`, `Snowflake`**
+ 🧠 Currently learning: **`AWS Cloud`, `Splunk`, `Solarwinds`**
 
  <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
