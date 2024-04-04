@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=800&height=70&duration=4000&lines=I'm+Mike+Zapata+👋🏾;+I+Make+Sense+of+Hard+Things;" />
 </h1>
 
-<h3 align="center">Data Analyst from Brookyln, New York 🗽 </h3>
+<h3 align="center">Cyber Security Amalyst from Brookyln, New York 🗽 </h3>
 
 <br/>
 
